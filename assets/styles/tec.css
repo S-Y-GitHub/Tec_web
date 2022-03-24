@@ -37,11 +37,14 @@
     --font_size_b:min(var(--w_font_B),var(--h_size_lbB));
 }
 
+*{
+    -webkit-appearance: none;
+}
+
 html{
     font-family:sans-serif;
     overflow:hidden;
     background-color:white;
-    -webkit-appearance: none;
 }
 
 button,label{
