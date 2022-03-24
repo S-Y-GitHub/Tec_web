@@ -126,7 +126,7 @@ button,label{
 }
 
 .r{
-    margin-left:var(--w_size_total_lbA);
+    margin-left:calc(var(--w_size_total_lbA) - 1px);
 }
 
 .rfs{
