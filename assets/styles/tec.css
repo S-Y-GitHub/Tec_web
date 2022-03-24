@@ -41,6 +41,7 @@ html{
     font-family:sans-serif;
     overflow:hidden;
     background-color:white;
+    -webkit-appearance: none;
 }
 
 button,label{
